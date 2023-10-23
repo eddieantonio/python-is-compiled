@@ -28,3 +28,4 @@ jobs:
     - run: python test_2.py || true
     - run: python test_3.py || true
     - run: python test_4.py || true
+    - run: python test_5.py || true
