@@ -1,0 +1,6 @@
+# Caches
+__pycache__/
+.mypy_cache/
+
+# My personal temporary files
+scratch/
