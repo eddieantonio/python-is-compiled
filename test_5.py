@@ -1,4 +1,4 @@
 1 / 0           # ZeroDivisionError: division by zero
-print = None
+print(None)
 if False:
     ñ = "hello"
